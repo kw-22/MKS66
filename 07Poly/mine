@@ -1,0 +1,17 @@
+torus
+250 400 0 25 20
+torus
+250 450 0 25 40
+torus
+250 500 0 25 60
+torus
+250 550 0 25 80
+torus
+250 600 0 25 100
+ident
+rotate
+x 60
+apply
+display
+save
+pic.png
