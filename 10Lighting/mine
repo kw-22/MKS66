@@ -1,0 +1,23 @@
+push
+move
+250 250 0
+rotate
+x 40
+rotate
+z 365
+torus
+0 0 0 15 150
+push
+rotate
+x 350
+torus
+0 0 0 15 130
+push
+rotate
+x 181
+rotate
+y 350
+torus
+0 0 0 15 110
+save
+pic35.png

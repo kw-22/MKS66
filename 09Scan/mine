@@ -1,0 +1,352 @@
+push
+move
+50 400 0
+rotate
+x 50
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push
+move
+0 0 50
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+100 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+pop
+pop
+pop
+pop
+pop
+pop
+push
+move
+0 0 100
+box
+0 0 0 50 50 50
+push
+move
+100 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+100 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+pop
+pop
+pop
+pop
+push
+move
+0 0 50
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+100 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push
+move
+0 0 50
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+150 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+pop
+pop
+pop
+pop
+pop
+push
+move
+0 0 50
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push
+move
+50 0 50
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+pop
+pop
+pop
+pop
+pop
+push
+move
+0 0 50
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+100 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+pop
+pop
+pop
+pop
+pop
+push
+move
+0 0 50
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+push
+move
+100 0 0
+box
+0 0 0 50 50 50
+push
+move
+50 0 0
+box
+0 0 0 50 50 50
+pop
+pop
+pop
+pop
+pop
+pop
+move
+50 200 50
+sphere
+0 0 0 40
+save
+pic.png
