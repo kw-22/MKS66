@@ -31,4 +31,4 @@ stack.o: stack.c stack.h matrix.h
 	$(CC) $(CFLAGS) -c stack.c
 
 clean:
-	shred -u *.o *.png ./main
+	rm *.o *.png ./main

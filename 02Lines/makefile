@@ -18,6 +18,6 @@ display.o: display.c display.h ml6.h
 	$(CC) $(CFLAGS) -c display.c
 
 clean:
-	shred -u *.o
-	shred -u ./main
-	shred -u *.png
+	rm *.o
+	rm ./main
+	rm *.png

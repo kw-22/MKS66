@@ -27,4 +27,4 @@ parser.o: parser.c parser.h matrix.h draw.h display.h ml6.h
 	$(CC) $(CFLAGS) -c parser.c
 
 clean:
-	shred -u *.o ./main *.png mine ./a.out
+	rm *.o ./main *.png mine ./a.out

@@ -3,5 +3,5 @@ all: picmaker.c
 	./pic
 
 clean:
-	shred -u *.ppm
-	shred -u ./pic
+	rm *.ppm
+	rm ./pic

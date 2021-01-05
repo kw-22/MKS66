@@ -28,4 +28,4 @@ gmath.o: gmath.c gmath.h
 	$(CC) $(CFLAGS) -c gmath.c
 
 clean:
-	shred -u *.o ./main *.png
+	rm *.o ./main *.png
